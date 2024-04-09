@@ -417,7 +417,7 @@
     "$oid": "6614c68905b39e026fc212f3"
   },
   "id": 47,
-  "video": "‪‪<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/t_ispmWmdjY?si=tfOxiyOyuaLkynHb\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+  "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/t_ispmWmdjY?si=tfOxiyOyuaLkynHb\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
   "price": "$3580.86",
   "discount": "$141.00"
 },

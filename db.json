@@ -4,431 +4,623 @@
       "$oid": "6614c68905b39e026fc212c5"
     },
     "id": 1,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rfscVS0vtbw?si=YJG1ag_zO0HT4pwg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/rfscVS0vtbw?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="Learn Python - Full Course for Beginners [Tutorial]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$4656.32",
-    "discount": "$271.79"
+    "discount": "$271.79",
+    "name":"Learn Python - Full Course for Beginners [Tutorial]",
+    "image":"https://i.ytimg.com/vi/rfscVS0vtbw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJp_2lS48x2To19Qc5hi7EN4lpmA",
+    "description":"Universidade do Sul de Santa Catarina",
+    "teacherName":"Veriee Bewick"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212c6"
     },
     "id": 2,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/pQN-pnXPaVg?si=uVYYSNBzZqCrVYXz\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/pQN-pnXPaVg?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="HTML Full Course - Build a Website Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$2245.93",
-    "discount": "$631.70"
+    "discount": "$631.70",
+    "name":"HTML Full Course - Build a Website Tutorial",
+    "image":"https://i.ytimg.com/vi/pQN-pnXPaVg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDozYIV7k7O87R07-SCJ_c29Qvr9g",
+    "description":"Instituto Universitario de la Policia Federal",
+    "teacherName":"Ralf Blacksell"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212c7"
     },
     "id": 3,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/pQN-pnXPaVg?si=WuAMIEpLD2UneqQB\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/PkZNo7MFNFg?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="Learn JavaScript - Full Course for Beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$4437.17",
-    "discount": "$278.93"
+    "discount": "$278.93",
+    "name":"Learn JavaScript - Full Course for Beginners",
+    "image":"https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-x9ppUR0YZsIsXO015PLA7KQibg",
+    "description":"Crimea State Medical University",
+    "teacherName":"Richmond Strettell"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212c8"
     },
     "id": 4,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/PkZNo7MFNFg?si=_arXzq9goS2ydIB5\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/988UZFB0heA?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="Native Android App Tutorial: WhatsApp Clone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$2348.80",
-    "discount": "$432.53"
+    "discount": "$432.53",
+    "name":"Native Android App Tutorial: WhatsApp Clone",
+    "image":"https://i.ytimg.com/vi/988UZFB0heA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjdO7mwHscupa2BZBhqUCRIEgg4g",
+    "description":"Yarmouk Private University ",
+    "teacherName":"Kelly Cleverly"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212c9"
     },
     "id": 5,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ztHopE5Wnpc?si=e_cgvnU_clMesY4o\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/ztHopE5Wnpc" title="Database Design Course - Learn how to design and plan a database for beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$4837.96",
-    "discount": "$118.62"
+    "discount": "$118.62",
+    "name":"Database Design Course - Learn how to design and plan a database for beginners",
+    "image":"https://i.ytimg.com/vi/ztHopE5Wnpc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBg1L2oo5HwOCwmgjPOnK7dzBQ_5A",
+    "description":"Shanghai Business School",
+    "teacherName":"Nanon Kinworthy"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212ca"
     },
     "id": 6,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ztHopE5Wnpc?si=jOGbOihLv973ZcQ7\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/grEKMHGYyns?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="Learn Java 8 - Full Tutorial for Beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$3024.99",
-    "discount": "$418.76"
+    "discount": "$418.76",
+    "name":"Learn Java 8 - Full Tutorial for Beginners",
+    "image":"https://i.ytimg.com/vi/grEKMHGYyns/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWy1yU91sBQfX4ZyeYdrEb247Cmw",
+    "description":"Al-Aqsa University",
+    "teacherName":"Dylan Mungan"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212cb"
     },
     "id": 7,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/grEKMHGYyns?si=bRoVkfSmYC2sI6D2\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/DPnqb74Smug?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="Learn HTML5 - full course with code samples" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$2027.96",
-    "discount": "$212.10"
+    "discount": "$212.10",
+    "name":"Learn HTML5 - full course with code samples",
+    "image":"https://i.ytimg.com/vi/DPnqb74Smug/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwCGiX8elXnX63uIRmIP56qmSNvQ",
+    "description":"Shanghai Jiaotong University",
+    "teacherName":"Kimmy Barents"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212cc"
     },
     "id": 8,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/t2CEgPsws3U?si=tZx1VKwizs4ZPsOu\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/DPnqb74Smug?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$1991.00",
-    "discount": "$738.31"
+    "discount": "$738.31",
+    "name":"Data Structures and Algorithms in JavaScript - Full Course for Beginners",
+    "image":"https://i.ytimg.com/vi/t2CEgPsws3U/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCA-5LFbkb6CdtJZ6Vk65lzBpkwjw",
+    "description":"Universitas Proklamasi 45",
+    "teacherName":"Meara McQuilkin"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212cd"
     },
     "id": 9,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/t2CEgPsws3U?si=P3zOSgHiTAy3dKV0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/KJgsSFOSQv0?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="C Programming Tutorial for Beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$2742.76",
-    "discount": "$989.57"
+    "discount": "$989.57",
+    "name":"C Programming Tutorial for Beginners",
+    "image":"https://i.ytimg.com/vi/KJgsSFOSQv0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAF2g26chq4w29MJO3d70ivEOroVA",
+    "description":"City University Athens",
+    "teacherName":"Saree Houseman"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212ce"
     },
     "id": 10,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/8DvywoWv6fI?si=QG6sQOFuyoKkn_K9\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/HXV3zeQKqGY?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="SQL Tutorial - Full Database Course for Beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$4436.85",
-    "discount": "$872.41"
+    "discount": "$872.41",
+    "name":"SQL Tutorial - Full Database Course for Beginners",
+    "image":"https://i.ytimg.com/vi/HXV3zeQKqGY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwHDfIeQMTWk6vHp_T5Lia8qkiUA",
+    "description":"Universitas Haluoleo",
+    "teacherName":"Faunie Torn"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212cf"
     },
     "id": 11,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/8DvywoWv6fI?si=39A-POA_achnhn2k\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/cI3FOYIMSYE?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="Python Django Framework Full Course - Learning with the Docs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$2345.87",
-    "discount": "$861.82"
+    "discount": "$861.82",
+    "name":"Python Django Framework Full Course - Learning with the Docs",
+    "image":"https://i.ytimg.com/vi/cI3FOYIMSYE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCpzPlY0sKP4ni4J16HuffqBuyeQ",
+    "description":"Shanghai Second Polytechnic University",
+    "teacherName":"Jobi Culy"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212d0"
     },
     "id": 12,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/sjWsAYJF8BA?si=r3vhc7SBEC0cDlbP\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/OK_JCtrrv-c?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="PHP Programming Language Tutorial - Full Course" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$4094.89",
-    "discount": "$849.67"
+    "discount": "$849.67",
+    "name":"PHP Programming Language Tutorial - Full Course",
+    "image":"https://i.ytimg.com/vi/OK_JCtrrv-c/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYYdCpkQyXF-_eGZhVy-p5RaS4cQ",
+    "description":"University of Dubrovnik",
+    "teacherName":"Allin Faulkner"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212d1"
     },
     "id": 13,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4deVCNJq3qc?si=_NoXmwq3W8WC2099\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/6Ied4aZxUzc?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="React Fundamentals - Full Course for Beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$2941.53",
-    "discount": "$687.99"
+    "discount": "$687.99",
+    "name":"React Fundamentals - Full Course for Beginners",
+    "image":"https://i.ytimg.com/vi/6Ied4aZxUzc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABSrN0kXeAbePdKpN5nn3oitlnIA",
+    "description":"Shenyang Jianzhu University",
+    "teacherName":"Bing Huegett"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212d2"
     },
     "id": 14,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4deVCNJq3qc?si=C50NUyHz13ICPtEl\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/ed8SzALpx1Q?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="GraphQL Full Course - Novice to Expert" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$2318.44",
-    "discount": "$982.57"
+    "discount": "$982.57",
+    "name":"GraphQL Full Course - Novice to Expert",
+    "image":"https://i.ytimg.com/vi/ed8SzALpx1Q/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxGkBALlPj7Ox3Rg7OaKT-ekWJKg",
+    "description":"Beijing Normal University",
+    "teacherName":"Annabal Henrion"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212d3"
     },
     "id": 15,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/KibbYf9avko?si=p7f_3_8UsgSqraUt\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/9fHQI-dt7QU?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="Learn Redux In One Video - Redux / React Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$3158.65",
-    "discount": "$248.51"
+    "discount": "$248.51",
+    "name":"Learn Redux In One Video - Redux / React Tutorial",
+    "image":"https://i.ytimg.com/vi/9fHQI-dt7QU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPLJsfTr8n8arw9J_0un_QZfoDvQ",
+    "description":"Tyumen State University",
+    "teacherName":"Guy Brachell"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212d4"
     },
     "id": 16,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/G8uL0lFFoN0?si=xBhok6QfMr62W7nv\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/t_ispmWmdjY?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="Ruby Programming Language - Full Course" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$1624.52",
-    "discount": "$698.12"
+    "discount": "$698.12",
+    "name":"Ruby Programming Language - Full Course",
+    "image":"https://i.ytimg.com/vi/t_ispmWmdjY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-pVzjw5-bzHhFmJWeTGMEWrwxLw",
+    "description":"Universidad Don Vasco",
+    "teacherName":"Jasper Jeary"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212d5"
     },
     "id": 17,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Xj5lo2-ZvRg?si=urk0CmaHy4mLFy6U\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/_y9oxzTGERs?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="Introduction to JavaScript" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$1596.02",
-    "discount": "$942.78"
+    "discount": "$942.78",
+    "name":"Introduction to JavaScript",
+    "image":"https://i.ytimg.com/vi/_y9oxzTGERs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAf4UNUZ6oOsmDN0hGWy8hXVEqIJA",
+    "description":"Jerusalem University College",
+    "teacherName":"Madelon Goold"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212d6"
     },
     "id": 18,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/comQ1-x2a1Q?si=0ib0hB8n2csHcbAP\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/nZ1DMMsyVyI?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="JavaScript ES6, ES7, ES8: Learn to Code on the Bleeding Edge (Full Course)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$3485.52",
-    "discount": "$720.90"
+    "discount": "$720.90",
+    "name":"JavaScript ES6, ES7, ES8: Learn to Code on the Bleeding Edge (Full Course)",
+    "image":"https://i.ytimg.com/vi/nZ1DMMsyVyI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCz_EUXcVz64C6V93ooB1v3w5AEUA",
+    "description":"Xinjiang University of Finance and Economics",
+    "teacherName":"Burl Cratchley"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212d7"
     },
     "id": 19,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/comQ1-x2a1Q?si=H7D_UV2Ftjm_vr_S\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/LBzZLzu2GKo?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="Bulma CSS Framework - complete tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$2346.66",
-    "discount": "$535.40"
+    "discount": "$535.40",
+    "name":"Bulma CSS Framework - complete tutorial",
+    "image":"https://i.ytimg.com/vi/LBzZLzu2GKo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfoyZs4B0sem3beW3D69-fpBVfVw",
+    "description":"Dimocritus University of Thrace",
+    "teacherName":"Melba Bricknall"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212d8"
     },
     "id": 20,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/6E6XecoTRVo?si=cl8KSMK9yvDUHnX8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/-Wlt8NRtOpo?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="CSS Flexbox Course" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$2098.04",
-    "discount": "$298.18"
+    "discount": "$298.18",
+    "name":"CSS Flexbox Course",
+    "image":"https://i.ytimg.com/vi/-Wlt8NRtOpo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGKnWBrwMh9dsScXMHtkNbGeV2Qg",
+    "description":"Universidade Portucalense Infante D. Henrique",
+    "teacherName":"Licha Casarino"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212d9"
     },
     "id": 21,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/GF8aoDqebsQ?si=ZZgZURqcIjoQVFXS\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/t6CBKf8K_Ac?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="CSS Grid Course" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$2956.54",
-    "discount": "$828.96"
+    "discount": "$828.96",
+    "name":"CSS Grid Course",
+    "image":"https://i.ytimg.com/vi/t6CBKf8K_Ac/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDP8dj-C_Ibix7D-hVwYb9WyC8UCA",
+    "description":"Instituto de Artes Visuais, Design e Marketing - IADE",
+    "teacherName":"Ibby Batsford"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212da"
     },
     "id": 22,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/vwHtFjdC2_M?si=yEoAgqx89USNXDp6\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/GF8aoDqebsQ?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="CSS Variables / Custom Properties (full course)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$3053.28",
-    "discount": "$603.86"
+    "discount": "$603.86",
+    "name":"CSS Variables / Custom Properties (full course)",
+    "image":"https://i.ytimg.com/vi/GF8aoDqebsQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgnsm5w7T3cn0HPoD6_LBy9XNUeA",
+    "description":"University College of Skövde",
+    "teacherName":"Marlo Dyson"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212db"
     },
     "id": 23,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/kt3cEjjkCZA?si=8kPae83uVdtrd3ZZ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/vwHtFjdC2_M?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="Vue.js &amp; Firestore Tutorial - Full Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$4078.06",
-    "discount": "$727.90"
+    "discount": "$727.90",
+    "name":"Vue.js Firestore Tutorial - Full Project",
+    "image":"https://i.ytimg.com/vi/vwHtFjdC2_M/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYnYu4J8n_6cuMGuhxQEYVHcqFEQ",
+    "description":"Universidad del Norte",
+    "teacherName":"Jenny Clarey"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212dc"
     },
     "id": 24,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/GhQdlIFylQ8?si=z-b0BcyITowR8TCx\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/kt3cEjjkCZA?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="Pug Template Engine - Full Tutorial for Beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$4460.91",
-    "discount": "$888.06"
+    "discount": "$888.06",
+    "name":"Pug Template Engine - Full Tutorial for Beginners",
+    "image":"https://i.ytimg.com/vi/kt3cEjjkCZA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBl1kCTstUtJRdQsBMim65PWKc25w",
+    "description":"Universitas Nasional Pasim",
+    "teacherName":"Maryanna Medcraft"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212dd"
     },
     "id": 25,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/frvXANSaSec?si=59YpxUOFdFYudUNd\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/vLnPwxZdW4Y?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="C++ Tutorial for Beginners - Full Course" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$3015.22",
-    "discount": "$880.24"
+    "discount": "$880.24",
+    "name":"C++ Tutorial for Beginners - Full Course",
+    "image":"https://i.ytimg.com/vi/vLnPwxZdW4Y/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB77PIpZKLF4ysX7Vfuh-ePc27scA",
+    "description":"Banking University of Ho Chi Minh City",
+    "teacherName":"Tye Darrigone"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212de"
     },
     "id": 26,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4yqu8YF29cU?si=BeP6toYcOJpDE1bH\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/GhQdlIFylQ8?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="C# Tutorial - Full Course for Beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$4621.82",
-    "discount": "$838.60"
+    "discount": "$838.60",
+    "name":"C# Tutorial - Full Course for Beginners",
+    "image":"https://i.ytimg.com/vi/GhQdlIFylQ8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuo9VoUJhPeeA6F5GDVYbA1962_w",
+    "description":"St. Petersburg State Academy for Engineering Economics (ENGECON)",
+    "teacherName":"Bord Cleverley"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212df"
     },
     "id": 27,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4yqu8YF29cU?si=_FE6-ZT36Udc57VS\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/frvXANSaSec?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="React Native - Intro Course for Beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$1504.06",
-    "discount": "$838.45"
+    "discount": "$838.45",
+    "name":"React Native - Intro Course for Beginners",
+    "image":"https://i.ytimg.com/vi/frvXANSaSec/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYohvumB6v1YiLHNJFoS3a7d9KOg",
+    "description":"Hehai University",
+    "teacherName":"Laurel Barke"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212e0"
     },
     "id": 28,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2SpuBqvNjHI?si=UmbU82amyyGqDajZ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/4yqu8YF29cU?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="MongoDB Full Tutorial w/ Node.js, Express, &amp; Mongoose" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$4176.59",
-    "discount": "$97.20"
+    "discount": "$97.20",
+    "name":"MongoDB Full Tutorial w/ Node.js, Express, Mongoose",
+    "image":"https://i.ytimg.com/vi/4yqu8YF29cU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdtnWaWwQrjG0KnSd3oNcS8f5NfQ",
+    "description":"Victoria University of Wellington",
+    "teacherName":"Hashim Muncey"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212e1"
     },
     "id": 29,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3EMxBkqC4z0?si=SCbXv11VkQ4VyHPK\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/2SpuBqvNjHI?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="Maths for Programmers Tutorial - Full Course on Sets and Logic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$3485.58",
-    "discount": "$485.14"
+    "discount": "$485.14",
+    "name":"Maths for Programmers Tutorial - Full Course on Sets and Logic",
+    "image":"https://i.ytimg.com/vi/2SpuBqvNjHI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBf_0shfa40zZhg02SA1KRzbsgMbA",
+    "description":"University of Vlora \"Ismail Qemali\"",
+    "teacherName":"Jefferey McCurlye"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212e2"
     },
     "id": 30,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/kMT54MPz9oE?si=Ch-JCBKLkizGvom3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/-iwjiiCGiO0?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="GraphQL Server Intermediate Tutorial - Boilerplate with Typescript, PostgreSQL, and Redis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$3911.34",
-    "discount": "$70.37"
+    "discount": "$70.37",
+    "name":"GraphQL Server Intermediate Tutorial - Boilerplate with Typescript, PostgreSQL, and Redis",
+    "image":"https://i.ytimg.com/vi/-iwjiiCGiO0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMJzWwa60JVRJULJ0mCCl6iFoQVA",
+    "description":"Academy of Economics in Wroclaw",
+    "teacherName":"Jase Tuley"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212e3"
     },
     "id": 31,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/WO6P92v61y4?si=KC8wfTzzYsEn5chz\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/3EMxBkqC4z0?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="Intro to Game Development with JavaScript - Full Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$4168.99",
-    "discount": "$808.26"
+    "discount": "$808.26",
+    "name":"Intro to Game Development with JavaScript - Full Tutorial",
+    "image":"https://i.ytimg.com/vi/3EMxBkqC4z0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqq6IgbMZ3O55BzcFBb3YFEYkRjA",
+    "description":"Universidad Privada Los Andes",
+    "teacherName":"Lark Bjerkan"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212e4"
     },
     "id": 32,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/WO6P92v61y4?si=6xewjsa4I-xyEP_F\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/kMT54MPz9oE?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="HTML and CSS Tutorial - Create a Website for Beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$4410.79",
-    "discount": "$262.59"
+    "discount": "$262.59",
+    "name":"HTML and CSS Tutorial - Create a Website for Beginners",
+    "image":"https://i.ytimg.com/vi/kMT54MPz9oE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9qLBIL6JFpFliV29cLwL-p44Q-A",
+    "description":"Universitas Negeri Padang",
+    "teacherName":"Rosalynd Gulberg"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212e5"
     },
     "id": 33,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/mHFAM0CXviE?si=h_3laES32_Gyzue1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/WO6P92v61y4?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="Intro to Computer Networks - Crash Course" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$2376.10",
-    "discount": "$455.38"
+    "discount": "$455.38",
+    "name":"Intro to Computer Networks - Crash Course",
+    "image":"https://i.ytimg.com/vi/WO6P92v61y4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDp7uh-fqUNB33qALAlOp4gKphoEA",
+    "description":"Universidad Autónoma del Noreste",
+    "teacherName":"Iseabal Ebanks"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212e6"
     },
     "id": 34,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2OHbjep_WjQ?si=G10liNoyVPJ1Jkmx\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/mHFAM0CXviE?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="Gatsby - Full Tutorial for Beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$4752.84",
-    "discount": "$351.09"
+    "discount": "$351.09",
+    "name":"Gatsby - Full Tutorial for Beginners",
+    "image":"https://i.ytimg.com/vi/mHFAM0CXviE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4L2zHoaAPmcWkI3EzIlcKAo7v5A",
+    "description":"South-East Asia University",
+    "teacherName":"Charla Parzizek"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212e7"
     },
     "id": 35,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/RLtyhwFtXQA?si=JRzwm-suBE68IfF4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/2OHbjep_WjQ" title="Learn Angular - Full Tutorial Course" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$3379.49",
-    "discount": "$582.36"
+    "discount": "$582.36",
+    "name":"Tìm hiểu Angular - Khóa học hướng dẫn đầy đủ",
+    "image":"https://i.ytimg.com/vi/2OHbjep_WjQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjFSIrJrBBGnK5rCT-7nYssgDKGg",
+    "description":"Southwest University",
+    "teacherName":"Aube Scanes"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212e8"
     },
     "id": 36,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/RLtyhwFtXQA?si=1gQPKYraNlskczfA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/EoYfa6mYOG4?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="Learn TensorFlow.js - Deep Learning and Neural Networks with JavaScript" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$1877.58",
-    "discount": "$397.22"
+    "discount": "$397.22",
+    "name":"Learn TensorFlow.js - Deep Learning and Neural Networks with JavaScript",
+    "image":"https://i.ytimg.com/vi/EoYfa6mYOG4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfDku7Vfop31Ae0oUSApaRRmDPQA",
+    "description":"University of Vlora \"Ismail Qemali\"",
+    "teacherName":"Maddy Domonkos"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212e9"
     },
     "id": 37,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2_lswM1S264?si=GLnAUFewFeCzJY5L\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/GpOO5iKzOmY?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="Learn JSON - Full Crash Course for Beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$2955.14",
-    "discount": "$953.96"
+    "discount": "$953.96",
+    "name":"Learn JSON - Full Crash Course for Beginners",
+    "image":"https://i.ytimg.com/vi/GpOO5iKzOmY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB46JPk1LDMYC14J9O5_orGrXM26g",
+    "description":"Universitas Kristen Duta Wacana",
+    "teacherName":"Chance Scottini"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212ea"
     },
     "id": 38,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/DLX62G4lc44?si=P7kfSm0vfex_ARdp\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/RLtyhwFtXQA?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="Learn Node.js - Full Tutorial for Beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$1863.52",
-    "discount": "$648.94"
+    "discount": "$648.94",
+    "name":"Learn Node.js - Full Tutorial for Beginners",
+    "image":"https://i.ytimg.com/vi/2_lswM1S264/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbIWiIrdVaQLhkt_qJhSkxF6GVjg",
+    "description":"Universitas Muhammadiyah Jember",
+    "teacherName":"Millie Daniello"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212eb"
     },
     "id": 39,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ieTHC78giGQ?si=I_BoL_25PmjJMM9G\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/2_lswM1S264" title="Ethical Hacking 101: Web App Penetration Testing - a full course for beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$4424.94",
-    "discount": "$345.22"
+    "discount": "$345.22",
+    "name":"Ethical Hacking 101: Web App Penetration Testing - a full course for beginners",
+    "image":"https://i.ytimg.com/vi/2_lswM1S264/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbIWiIrdVaQLhkt_qJhSkxF6GVjg",
+    "description":"Centro Universitario de Occidente",
+    "teacherName":"Guss Hillborne"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212ec"
     },
     "id": 40,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/F5mRW0jo-U4?si=Nfbjm0N3aedqRJkW\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/DLX62G4lc44?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="Learn React JS - Full Course for Beginners - Tutorial 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$4045.70",
-    "discount": "$201.87"
+    "discount": "$201.87",
+    "name":"Learn React JS - Full Course for Beginners - Tutorial 2019",
+    "image":"https://i.ytimg.com/vi/DLX62G4lc44/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYExVfk33PuxGsJ5PWER0OMBYdyA",
+    "description":"Instituto Politécnico de Setúbal",
+    "teacherName":"Foss Beecheno"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212ed"
     },
     "id": 41,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/cI3FOYIMSYE?si=qAuRBc3rTsoVj4Pn\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/ieTHC78giGQ?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="CSS Full Course - Includes Flexbox and CSS Grid Tutorials" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$1366.87",
-    "discount": "$185.23"
+    "discount": "$185.23",
+    "name":"CSS Full Course - Includes Flexbox and CSS Grid Tutorials",
+    "image":"https://i.ytimg.com/vi/ieTHC78giGQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9uByjXY9adH8iRikrw59B6lvisw",
+    "description":"Universitas Widya Gama Malang",
+    "teacherName":"Peadar McQuirter"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212ee"
     },
     "id": 42,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/OK_JCtrrv-c?si=z0ycAx3k5QRjrBsD\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/F5mRW0jo-U4?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="Python Django Web Framework - Full Course for Beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$3081.91",
-    "discount": "$657.53"
+    "discount": "$657.53",
+    "name":"Python Django Web Framework - Full Course for Beginners",
+    "image":"https://i.ytimg.com/vi/F5mRW0jo-U4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlqi_JekY1paLNAsbPRr0N1dTXjw",
+    "description":"Universitas Slamet Riyadi Surakarta",
+    "teacherName":"Audrie Kollas"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212ef"
     },
     "id": 43,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/OK_JCtrrv-c?si=wY-Qzw1O1hB-L3sB\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/6E6XecoTRVo?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="Neural Networks with JavaScript - Full Course using Brain.js" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$1148.70",
-    "discount": "$129.86"
+    "discount": "$129.86",
+    "name":"Neural Networks with JavaScript - Full Course using Brain.js",
+    "image":"https://i.ytimg.com/vi/6E6XecoTRVo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkgGD7FHUcHpFCYHPxG1OKex-YOg",
+    "description":"University of Technology",
+    "teacherName":"Rudiger Kirkup"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212f0"
     },
     "id": 44,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ed8SzALpx1Q?si=S9jbwVHCDDpcE78C\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/comQ1-x2a1Q?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="Swift Tutorial - Full Course for Beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$3434.04",
-    "discount": "$776.69"
+    "discount": "$776.69",
+    "name":"Swift Tutorial - Full Course for Beginners",
+    "image":"https://i.ytimg.com/vi/comQ1-x2a1Q/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByIkwSpxAtdgOhwJOV3rw0pxP7iw",
+    "description":"China University of Geosciences Wuhan",
+    "teacherName":"Reinald Pym"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212f1"
     },
     "id": 45,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ed8SzALpx1Q?si=5GdKvoXYJBBKE5uP\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/Sqb-Ue7wpsI?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="Unity FPS Survival Game Tutorial - First Person Shooter Game Dev" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$1116.73",
-    "discount": "$886.37"
+    "discount": "$886.37",
+    "name":"Unity FPS Survival Game Tutorial - First Person Shooter Game Dev",
+    "image":"https://i.ytimg.com/vi/Sqb-Ue7wpsI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXyugvkNjQx4BU6GLChDE2aBnjlg",
+    "description":"Institute of Business Management ",
+    "teacherName":"Fons Walworth"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212f2"
     },
     "id": 46,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/9fHQI-dt7QU?si=RWmpwQQ1jpQ7vC9z\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/Xj5lo2-ZvRg?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="Go Tutorial / Golang Crash Course for Beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$3557.19",
-    "discount": "$354.21"
+    "discount": "$354.21",
+    "name":"Go Tutorial / Golang Crash Course for Beginners",
+    "image":"https://i.ytimg.com/vi/Xj5lo2-ZvRg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVC_9uuv9Bssp7l7tDbRvORwwhvQ",
+    "description":"City University of New York, Hunter College",
+    "teacherName":"Ashton Jerosch"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212f3"
     },
     "id": 47,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/t_ispmWmdjY?si=tfOxiyOyuaLkynHb\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/G8uL0lFFoN0?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="Express.js &amp; Node.js Course for Beginners - Full Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$3580.86",
-    "discount": "$141.00"
+    "discount": "$141.00",
+    "name":"Express.js Node.js Course for Beginners - Full Tutorial",
+    "image":"https://i.ytimg.com/vi/G8uL0lFFoN0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYZPaX0XdOJybMT4fkG3A6RJOq5Q",
+    "description":"Belarusian-Russian University",
+    "teacherName":"Allx Ludl"
   },
   {
     "_id": {
       "$oid": "6614c68905b39e026fc212f4"
     },
     "id": 48,
-    "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/_y9oxzTGERs?si=IKhBKR7Fk_YtfUop\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "video": "<iframe width="853" height="480" src="https://www.youtube.com/embed/KibbYf9avko?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO" title="How to Make a Custom Website from Scratch using WordPress (Theme Development) - 2019 Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
     "price": "$1132.67",
-    "discount": "$274.70"
+    "discount": "$274.70",
+    "name":"How to Make a Custom Website from Scratch using WordPress (Theme Development) - 2019 Tutorial",
+    "image":"https://i.ytimg.com/vi/KibbYf9avko/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1FoBKJ786T7FqZjKMbD3hxJdR7A",
+    "description":"University of San Agustin",
+    "teacherName":"Kath Wartonby"
   }]
 }
